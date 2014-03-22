@@ -1,4 +1,4 @@
-Computing_for_Data_Analysis
-===========================
+my_coursera
+===========
 
 Computing for Data Analysis
